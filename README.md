@@ -20,7 +20,6 @@ Example
 
 Requirements
 ----
-* pygame for handling music playback
-* mutagen for processing MP3 file information
-* Tkinter for the GUI
-
+* Pygame
+* Mutagen
+* Tkinter
